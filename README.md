@@ -2,9 +2,11 @@
 Jarvis Legal application : technical test
 
 Installation du projet :
+
   Prerequis : PHP 8.0, MySQL
 
   Cloner le repository : https://github.com/Audrick6/test_jarvis
+  
   Installer Composer : https://getcomposer.org/download/
   Installer Symfony CLI : https://symfony.com/download
 
