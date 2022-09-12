@@ -8,7 +8,7 @@
   * Installer Symfony CLI : https://symfony.com/download
 
 1. faire un _composer install_
-2. Créer la base de données : _php bin/console doctrine:database:create_ (adapter la variable **DATABASE_URL** selon votre config, en particulier les identifiants)
+2. Créer la base de données : _php bin/console doctrine:database:create_ (adapter la variable `DATABASE_URL` selon votre config, en particulier les identifiants)
 3. Jouer les migrations : _php bin/console doctrine:migrations:migrate_
 4. Lancer le serveur : _symfony server:start_
 
